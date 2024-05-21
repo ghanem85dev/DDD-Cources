@@ -1,4 +1,4 @@
-# DDD-Cources
+# DDD-Courses
 
 
 Do you want to learn Domain-Driven Design? 
